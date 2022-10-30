@@ -10,6 +10,6 @@ Hi, I'm Ruben, a scientific computing student at the TU Berlin.
 <a href="https://github.com/mildblimp">
   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/ruben-braas-ba250618a/">
+<a href="https://www.linkedin.com/in/ruben-braas/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
