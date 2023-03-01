@@ -1,4 +1,8 @@
-Hi, I'm Ruben, a scientific computing student at the TU Berlin.
+Hi, I'm Ruben, a scientific computing and applied mathematics graduate at the TU Berlin and TU Delft.
+I put the occasional hobby project on here.
+Other than that, I'm not very active on this platform.
+
+Feel free to reach out if you'd like.
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
