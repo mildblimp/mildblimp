@@ -1,4 +1,4 @@
-Hi, I'm Ruben, a scientific computing and applied mathematics graduate at the TU Berlin and TU Delft.
+Hi, I'm Ruben, a scientific computing and applied mathematics graduate from the TU Berlin and TU Delft.
 I put the occasional hobby project on here.
 Other than that, I'm not very active on this platform.
 
